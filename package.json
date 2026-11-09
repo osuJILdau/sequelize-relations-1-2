@@ -1,0 +1,14 @@
+{
+  "name": "sequelize-relations-1-2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Практическая работа №1.2: связи таблиц в Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.8",
+    "sqlite3": "^5.1.7"
+  }
+}
